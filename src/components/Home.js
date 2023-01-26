@@ -5,7 +5,7 @@ import BannerImage from "../assets/img/pizza-1.jpg";
 import {FiArrowRight} from "react-icons/fi";
 
 const Home = () => {
-    return <div className="home-container">
+    return <div className="home-container" id="home">
         <Navbar/>
 
         <div className="home-banner-container">

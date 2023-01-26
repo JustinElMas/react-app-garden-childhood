@@ -51,11 +51,11 @@ const Navbar = () => {
         </div>
 
         <div className="navbar-links-container">
-            <a href="">Home</a>
-            <a href="">Acerca de</a>
-            <a href="">Testimonios</a>
-            <a href="">Contacto</a>
-            <a href="">
+            <a href="#home">Home</a>
+            <a href="#about">Acerca de</a>
+            <a href="#testimonials">Testimonios</a>
+            <a href="#contact">Contacto</a>
+            <a href="#">
                 <BsCart2 className="navbar-cart-icon"></BsCart2>
             </a>
 
