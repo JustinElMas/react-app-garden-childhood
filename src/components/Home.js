@@ -38,6 +38,14 @@ const Home = () => {
                 <img src={BannerImage} alt="pizza-de-bufalo-bil" />
             </div>
 
+            <div className="container-space">
+                <div className="ala-l"></div>
+                <div className="ala-r"></div>
+
+                <div className="ala-z"></div>
+                <div className="ala-x"></div>
+            </div>
+
         </div>
     </div>
 };
