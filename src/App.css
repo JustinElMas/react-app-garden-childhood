@@ -169,16 +169,6 @@
     clip-path: circle(66% at left);
   }
 
-  .ala-l {
-    background-color: #fe9e0d;
-    z-index: 0 !important;
-  }
-
-  .home-image-container:hover .ala-l{
-    display: none;
-    animation: none !important;
-  }
-
   /* NOS QUEDAMOS EN COMO HACER EL RESPOINSIVE DE LA "NAVE PIZZA", NOS QUEDAMOS EN COMO HACER PARA QUE LA NAVE ATERRICE */
 
   .home-image-container img {
