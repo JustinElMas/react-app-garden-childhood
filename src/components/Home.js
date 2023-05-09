@@ -14,7 +14,7 @@ const Home = () => {
             <div className="home-bannerImage-container">
                 {<img src= {BannerBackground} alt="es-el-banner-de-atras" />}
                 <div className="astronauta-img">
-                    <img src= {astrounautImg} alt="astronauta-ilustrativo-pizza" />
+                {<img src= {astrounautImg} alt="astronauta-ilustrativo-pizza" />}
                 </div>
             </div>
 
