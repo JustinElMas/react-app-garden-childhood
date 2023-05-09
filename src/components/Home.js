@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar";
 import BannerBackground from "../assets/img/fondo-banner.png";
+import astrounautImg from "../assets/img/astronauta.jpeg";
 import BannerImage from "../assets/img/pizza-1.jpg";
 import {FiArrowRight} from "react-icons/fi";
 
@@ -11,7 +12,10 @@ const Home = () => {
         <div className="home-banner-container">
 
             <div className="home-bannerImage-container">
-                <img src= {BannerBackground} alt="es-el-banner-de-atras" />
+                {<img src= {BannerBackground} alt="es-el-banner-de-atras" />}
+                <div className="astronauta-img">
+                    <img src= {astrounautImg} alt="astronauta-ilustrativo-pizza" />
+                </div>
             </div>
 
             <div className="home-text-section">
