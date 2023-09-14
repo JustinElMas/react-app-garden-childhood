@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/landing-page-restaurant/static/css/main.0d086441.css",
+    "main.js": "/landing-page-restaurant/static/js/main.8ee1d42f.js",
+    "static/media/fondo.jpg": "/landing-page-restaurant/static/media/fondo.2a0a24755c1c71a97852.jpg",
+    "static/media/bill-2.jpg": "/landing-page-restaurant/static/media/bill-2.03a3a78bd92fb0c15d06.jpg",
+    "static/media/pizza-1.jpg": "/landing-page-restaurant/static/media/pizza-1.2622684bacd45494606a.jpg",
+    "static/media/fondo-banner.png": "/landing-page-restaurant/static/media/fondo-banner.585600da7ff85661555e.png",
+    "index.html": "/landing-page-restaurant/index.html",
+    "static/media/launch.svg": "/landing-page-restaurant/static/media/launch.4835d12d9c70f46272cee5cd382caac1.svg",
+    "static/media/fast-food.svg": "/landing-page-restaurant/static/media/fast-food.73ffe54d53c9346469ce4a9c3baaf066.svg",
+    "static/media/banck.svg": "/landing-page-restaurant/static/media/banck.fc5821f80676d068d52526fbf78c5aa0.svg",
+    "main.0d086441.css.map": "/landing-page-restaurant/static/css/main.0d086441.css.map",
+    "main.8ee1d42f.js.map": "/landing-page-restaurant/static/js/main.8ee1d42f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d086441.css",
+    "static/js/main.8ee1d42f.js"
+  ]
+}

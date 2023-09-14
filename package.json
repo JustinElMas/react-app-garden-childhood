@@ -2,7 +2,7 @@
   "name": "aplication-bufalo-bill",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/JustinElMas/bill-landing-page",
+  "homepage": "https://justinelmas.github.io/landing-page-restaurant",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
