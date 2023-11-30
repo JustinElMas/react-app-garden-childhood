@@ -1,6 +1,6 @@
 import React from 'react';
-import AboutBackground from "../assets/img/about-background.png";
-import AboutBackgroundImage from "../assets/img/bill-2.jpg";
+import AboutBackground from "../assets/img/pocoyo-school.jpg";
+import AboutBackgroundImage from "../assets/img/wall.avif";
 import { BsFillPlayCircleFill } from 'react-icons/bs';
 
 const About = () => {
@@ -18,7 +18,7 @@ const About = () => {
         <div className='about-section-text-container'>
             <p className='primary-subheading'>Acerca de nosotros: </p>
             <h1 className='primary-heading'>
-                Visita nuestros negocios y disfruta de la mejor pizza. 
+                "Con amor se construye los hijos".
             </h1>
             <p className='primary-text'>
                 En nuestras instalaciones estamos listos para atenderte y que disfrutes el mejor servicio.

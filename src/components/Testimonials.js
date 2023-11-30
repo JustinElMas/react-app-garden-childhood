@@ -16,7 +16,7 @@ const Testimonials = () => {
             <div className='testimonial-section-bottom'>
                 <img src= {ProfilePic} alt="un-cliente-de-buffalo-bill" />
                 <p>
-                "Cuando llegue por primera vez a Leticia, queria probar un sabor de pizza autentico, busque y busque, hasta que llegue a Bufalo bill y el resto es historia".
+                "El mejor ambiente para que nuestros hijos aprendan".
                 </p>
                 <div className='testimonials-stars-container'>
                     <AiFillStar></AiFillStar>

@@ -1,27 +1,27 @@
 import React from 'react';
-import PickMeals from "../assets/img/fast-food.svg";
-import ChooseMeals from "../assets/img/launch.svg";
-import DeliveryMeals from "../assets/img/banck.svg";
+import PickMeals from "../assets/img/pocoyo-banner.jpg";
+import ChooseMeals from "../assets/img/pocoyo-school.jpg";
+import DeliveryMeals from "../assets/img/pocoyo.webp";
 
 const work = () => {
     
   const workInfoData = [
     {
       image: PickMeals,
-      title: "Comidas Rápidas",
-      text: "La mejor cómida de la triple frontera."
+      title: "Jardín y Pre-jardín",
+      text: "Educamos a la próxima generación"
     },
 
     {
       image: ChooseMeals,
-      title: "Tus antojos",
-      text: "Perros clientes, hamburguesas, picadas para + 4 personas, y más ¿Qué estas esperando?."
+      title: "Refuerzo Escolar",
+      text: "Te ayudamos en las tareas o refuerzo para áreas académicas"
     },
 
     {
       image: DeliveryMeals,
-      title: "Domicilios",
-      text: "Lleagamos hasta tu casa."
+      title: "Caminadores",
+      text: "También para los más pequeños"
     }
 
   ]

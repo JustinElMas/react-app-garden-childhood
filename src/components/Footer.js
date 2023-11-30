@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from "../assets/img/fondo.jpg";
+import Logo from "../assets/img/buena-semilla.png";
 import { BsTwitter } from 'react-icons/bs';
 import { BsFacebook } from 'react-icons/bs';
 import { BsYoutube } from 'react-icons/bs';
@@ -34,9 +34,9 @@ const Footer = () => {
             </div>
             
         <div className='footer-section-columns'>
-            <span>buffalobill@gmail.com</span>
-            <span>buffalobill@gmail.com</span>
-            <a href="tel: 3102220022">321 255 4031</a>
+            <span>jardinpocoyo@gmail.com</span>
+            <span>jardinpocoyo@gmail.com</span>
+            <a href="tel: 3102220022">318 989 9819</a>
         </div>
 
         <div className='footer-section-columns'>
