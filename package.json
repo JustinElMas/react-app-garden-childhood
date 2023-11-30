@@ -2,7 +2,7 @@
   "name": "aplication-garden-pocoyo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/JustinElMas/react-app-garden-childhood",
+  "homepage": "https://JustinElMas.github.io/react-app-garden-childhood/build",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",

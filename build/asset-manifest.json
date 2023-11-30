@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-app-garden-childhood/static/css/main.1dd7b4c6.css",
-    "main.js": "/react-app-garden-childhood/static/js/main.d46e9bb2.js",
-    "static/media/profe-jardin-2.jpg": "/react-app-garden-childhood/static/media/profe-jardin-2.54d6525622dd36ffa97a.jpg",
-    "static/media/profe-jardin-1.jpeg": "/react-app-garden-childhood/static/media/profe-jardin-1.6946175c4765e657fdbc.jpeg",
-    "static/media/pocoyo-school.jpg": "/react-app-garden-childhood/static/media/pocoyo-school.4c0bb073428af930ef70.jpg",
-    "static/media/pocoyo-banner.jpg": "/react-app-garden-childhood/static/media/pocoyo-banner.d39c352cd7ce5b7d4210.jpg",
-    "static/media/pocoyo.webp": "/react-app-garden-childhood/static/media/pocoyo.0af11657a4e58613ee34.webp",
-    "static/media/wall.avif": "/react-app-garden-childhood/static/media/wall.c6dbe579955f119808e9.avif",
-    "index.html": "/react-app-garden-childhood/index.html",
-    "main.1dd7b4c6.css.map": "/react-app-garden-childhood/static/css/main.1dd7b4c6.css.map",
-    "main.d46e9bb2.js.map": "/react-app-garden-childhood/static/js/main.d46e9bb2.js.map"
+    "main.css": "/react-app-garden-childhood/build/static/css/main.1dd7b4c6.css",
+    "main.js": "/react-app-garden-childhood/build/static/js/main.1534304e.js",
+    "static/media/profe-jardin-2.jpg": "/react-app-garden-childhood/build/static/media/profe-jardin-2.54d6525622dd36ffa97a.jpg",
+    "static/media/profe-jardin-1.jpeg": "/react-app-garden-childhood/build/static/media/profe-jardin-1.6946175c4765e657fdbc.jpeg",
+    "static/media/pocoyo-school.jpg": "/react-app-garden-childhood/build/static/media/pocoyo-school.4c0bb073428af930ef70.jpg",
+    "static/media/pocoyo-banner.jpg": "/react-app-garden-childhood/build/static/media/pocoyo-banner.d39c352cd7ce5b7d4210.jpg",
+    "static/media/pocoyo.webp": "/react-app-garden-childhood/build/static/media/pocoyo.0af11657a4e58613ee34.webp",
+    "static/media/wall.avif": "/react-app-garden-childhood/build/static/media/wall.c6dbe579955f119808e9.avif",
+    "index.html": "/react-app-garden-childhood/build/index.html",
+    "main.1dd7b4c6.css.map": "/react-app-garden-childhood/build/static/css/main.1dd7b4c6.css.map",
+    "main.1534304e.js.map": "/react-app-garden-childhood/build/static/js/main.1534304e.js.map"
   },
   "entrypoints": [
     "static/css/main.1dd7b4c6.css",
-    "static/js/main.d46e9bb2.js"
+    "static/js/main.1534304e.js"
   ]
 }
